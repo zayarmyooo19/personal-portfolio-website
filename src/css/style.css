@@ -7,13 +7,14 @@
   box-sizing: border-box;
   font-family: 'Nunito', sans-serif;
 }
-#nav>li{
+#nav>a{
   color: #fff;
   font-size: 1.5rem;
   font-weight: 600;
   padding: 20px 20px;
+  text-decoration: none;
 }
-#nav>li:hover{
+#nav>a:hover{
  background-color: #45567D;
 }
 .main>section{
